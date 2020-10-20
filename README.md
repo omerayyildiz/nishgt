@@ -1,5 +1,5 @@
 # NİŞANTAŞI ÜNİVERSİTESİ GRAFİK TASARIM NOTLARI
-![Dağ Resmi](pics/mountain.jpg)
+![Dağ Resmi](assets/img/mountain.jpg)
 ## Haftanın Görevleri
 - [ ] deneme
 
