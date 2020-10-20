@@ -1,6 +1,6 @@
 # NİŞANTAŞI ÜNİVERSİTESİ GRAFİK TASARIM NOTLARI
 ![Dağ Resmi](assets/img/mountain.jpg)
-## Haftanın Görevleri
+## ✅ Haftanın Görevleri
 - [ ] **Araştıralacak İsimler**
 > Melike Taşçıoğlu\
 Yeşim Demir\
@@ -31,13 +31,23 @@ Kağıtları Tutturmak İçin Mandal.\
 \
 **LİSTEYE EKLENECEK OLAN İHTİYAÇ DOĞRULTUSUNDA Kİ MALZEMELER DERS AŞAMASINDA BİLGİLENDİRİLECEKTİR.**
 
-> Aslı Hoca: _"Edinmeniz gereken malzemelerden bir değeri 35x50 cm resim kağıdı duvarınıza asıp çizgi çalışması yapmanız için gerekli. **2B 3 4 5B** alabilirsiniz ayrıca ton skalası yapmak için gerekli."_
+- [ ] **Alınacak Kitaplar**
+> İletişim ve Grafik Tasarım - Emre Becer\
+Görsel İletişim ve Grafik Tasarım - Tevfik Fikret Uçar 
 
-## Geçmiş Görevler
+## ⚠️ **ÖNEMLİ NOTLAR**
+> _"Bol bol desen alıştırması."_ **Zafer Hoca**
+
+> _"Edinmeniz gereken malzemelerden bir değeri 35x50 cm resim kağıdı duvarınıza asıp çizgi çalışması yapmanız için gerekli. **2B 3 4 5B** alabilirsiniz ayrıca ton skalası yapmak için gerekli."_ **Aslı Hoca**
+
+## ✍️ Geçmiş Görevler
 > **UPS, SANIRIM GEÇMİŞ GÖREV YOK!**
 
-## Sınav Tarihleri
+## 📆 Sınav Tarihleri
 > **YAVAŞ, HER ŞEYİN BİR SIRASI VAR! :)**
 
-## Önemli Notlar
-> _"Bol bol desen alıştırması."_ **Zafer Hoca**
+
+# **DAHA FAZLA**
+## [Aslı Hoca'nın Seçtikleri](featured_contents.md)
+## [Tüm Dökümanlar](docs/docs.md)
+## [Ders İçin Kaynaklar](sources/sources.md)
