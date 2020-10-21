@@ -48,4 +48,4 @@ Görsel İletişim ve Grafik Tasarım - Tevfik Fikret Uçar
 ### -
 ### [OBIS'e Bağlan](https://obis.nisantasi.edu.tr)
 ### [Sanal Kampüs'e Bağlan](https://sanalkampus.nisantasi.edu.tr)
-### [Okul Sitesine Bağlan](https://myo.nisantasi.edu.tr)
+### [Okul Sitesine Bağlan](http://myo.nisantasi.edu.tr)
