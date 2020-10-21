@@ -2,7 +2,7 @@
 
 ![Dağ Resmi](assets/img/mountain.jpg)
 # ✅ Haftanın Görevleri
-## **Araştıralacak İsimler**
+## **Araştırılacak İsimler**
 > Melike Taşçıoğlu\
 Yeşim Demir\
 Mengü Ertel\
@@ -25,8 +25,8 @@ Eskiz Kağdı (Fotokopi Kağıtları Olabilir),\
 Gönye,\
 Pistole Takımı,\
 Maket Bıçağı,\
-02,03,05 Uçlu Kurşun Kalem,\
-Rapıdo kalem ve siyah Mürekkep,\
+02,03,05 Uçlu Kalem,\
+Rapido Kalem ve Siyah Mürekkep,\
 70cm Cetvel 50 CM DURALİT,\
 Kağıtları Tutturmak İçin Mandal.\
 \
@@ -39,9 +39,13 @@ Görsel İletişim ve Grafik Tasarım - Tevfik Fikret Uçar
 ## ⚠️ **ÖNEMLİ NOTLAR**
 > _"Bol bol desen alıştırması."_ **Zafer Hoca**
 
-> _"Edinmeniz gereken malzemelerden bir değeri 35x50 cm resim kağıdı duvarınıza asıp çizgi çalışması yapmanız için gerekli. **2B 3 4 5B** alabilirsiniz ayrıca ton skalası yapmak için gerekli."_ **Aslı Hoca**
+> _"Edinmeniz gereken malzemelerden bir diğeri 35x50 cm resim kağıdı (duvarınıza asıp çizgi çalışması yapmanız için gerekli). **2B 3 4 5B** alabilirsiniz ayrıca (ton skalası yapmak için gerekli)."_ **Aslı Hoca**
 
 ## **Daha Fazla**
 ### [Aslı Hoca'nın Seçtikleri](featured_contents.md)
 ### [Tüm Dökümanlar](docs/docs.md)
 ### [Ders İçin Kaynaklar](sources/sources.md)
+### -
+### [OBIS'e Bağlan](https://obis.nisantasi.edu.tr)
+### [Sanal Kampüs'e Bağlan](https://sanalkampus.nisantasi.edu.tr)
+### [Okul Sitesine Bağlan](https://myo.nisantasi.edu.tr)
