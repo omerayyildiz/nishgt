@@ -19,15 +19,16 @@ Paul Klee
 > Grafik Tasarım (Mobil Dergilikler ve D&R)
 
 ## **Alınacak Malzemeler**
-> 50X70 Bristol,\
-Şöhler Kağıt 300gr,\
-Eskiz Kağdı (Fotokopi Kağıtları Olabilir),\
+> 10 Adet 50X70 Bristol Kağıdı ,\
+50x70 300gr Şöhler Kağıt,\
+35x50 200gr Eskiz Kağıtları,\
 Gönye,\
 Pistole Takımı,\
 Maket Bıçağı,\
 02,03,05 Uçlu Kalem,\
-Rapido Kalem ve Siyah Mürekkep,\
-70cm Cetvel 50 CM DURALİT,\
+Rapido Kalem Seti (02,03,05) ve Siyah Mürekkep,\
+70cm Demir Cetvel,\
+50x70 DURALİT,\
 Kağıtları Tutturmak İçin Mandal.\
 \
 **LİSTEYE EKLENECEK OLAN İHTİYAÇ DOĞRULTUSUNDAKİ MALZEMELER DERS AŞAMASINDA BİLGİLENDİRİLECEKTİR.**
