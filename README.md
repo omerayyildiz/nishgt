@@ -34,7 +34,10 @@ Kağıtları Tutturmak İçin Mandal.\
 
 ## **Alınacak Kitaplar**
 > İletişim ve Grafik Tasarım - Emre Becer\
-Görsel İletişim ve Grafik Tasarım - Tevfik Fikret Uçar 
+Görsel İletişim ve Grafik Tasarım - Tevfik Fikret Uçar
+
+## **Ödevler**
+> Bir kahve reklamı için slogan ve yaratıcılık. (Temel Reklamcılık)
 
 ## ⚠️ **ÖNEMLİ NOTLAR**
 > _"Bol bol desen alıştırması."_ **Zafer Hoca**
