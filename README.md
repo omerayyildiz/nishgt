@@ -50,8 +50,6 @@ LİSTEYE EKLENECEK OLAN İHTİYAÇ DOĞRULTUSUNDAKİ MALZEMELER DERS AŞAMASINDA
 ## ⚠️ **ÖNEMLİ NOTLAR**
 ```
 "Bol bol desen alıştırması." - Zafer Hoca
-
-"Edinmeniz gereken malzemelerden bir diğeri 35x50 cm resim kağıdı (duvarınıza asıp çizgi çalışması yapmanız için gerekli). **2B 3B 4B 5B** alabilirsiniz ayrıca (ton skalası yapmak için gerekli)." - Aslı Hoca
 ```
 
 ## **Arşivler**
@@ -72,8 +70,6 @@ LİSTEYE EKLENECEK OLAN İHTİYAÇ DOĞRULTUSUNDAKİ MALZEMELER DERS AŞAMASINDA
 ### [OBIS'e Bağlan](https://obis.nisantasi.edu.tr)
 ### [Sanal Kampüs'e Bağlan](https://sanalkampus.nisantasi.edu.tr)
 ### [Okul Sitesine Bağlan](http://myo.nisantasi.edu.tr)
-### -
-
 
 
 
