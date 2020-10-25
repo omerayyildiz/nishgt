@@ -1,4 +1,4 @@
-# 🎬 **FİLMLER**
+# 🎬 **Filmler**
 - [Ruhların Kaçışı](https://www.imdb.com/title/tt0245429/)
 
 - [Paprika](https://www.imdb.com/title/tt0851578/)
