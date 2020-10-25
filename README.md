@@ -51,7 +51,6 @@ Görsel İletişim ve Grafik Tasarım - Tevfik Fikret Uçar
 > _"Edinmeniz gereken malzemelerden bir diğeri 35x50 cm resim kağıdı (duvarınıza asıp çizgi çalışması yapmanız için gerekli). **2B 3B 4B 5B** alabilirsiniz ayrıca (ton skalası yapmak için gerekli)."_ **Aslı Hoca**
 
 ## **Daha Fazla**
-### [Hocaların Seçtikleri](featured_contents.md)
 ### [Grafik Tasarım Arşiv](archive.md)
 ### [Tüm Dökümanlar](docs/docs.md)
 ### [Ders İçin Kaynaklar](sources/sources.md)
