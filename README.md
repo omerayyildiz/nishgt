@@ -3,39 +3,42 @@
 ![Dağ Resmi](assets/img/mountain.jpg)
 # ✅ Haftanın Görevleri
 ## **Araştırılacak İsimler**
-> Melike Taşçıoğlu\
-Yeşim Demir\
-Mengü Ertel\
-Yurdaer Altıntaş\
-Esen Karol\
-İrma Boom\
+
+```
+Melike Taşçıoğlu
+Yeşim Demir
+Mengü Ertel
+Yurdaer Altıntaş
+Esen Karol
+İrma Boom
 Paul Klee
+```
 
 ## **İncelenecek Web Sayfaları**
 > [Manifold](https://manifold.press)\
 [GMK](http://gmk.org.tr/publications)
 
 ## **İncelenecek Dergiler**
-> Grafik Tasarım (Mobil Dergilikler ve D&R)
+```
+Grafik Tasarım (Mobil Dergilikler ve D&R)
+```
 
 ## **Alınacak Malzemeler**
-> 10 Adet 50X70 Bristol Kağıdı ,\
-50x70 300gr Şöhler Kağıt,\
-35x50 200gr Eskiz Kağıtları,\
-Gönye,\
-Pistole Takımı,\
-Maket Bıçağı,\
-02,03,05 Uçlu Kalem,\
-Rapido Kalem Seti (02,03,05) ve Siyah Mürekkep,\
-70cm Demir Cetvel,\
-50x70 DURALİT,\
-Kağıtları Tutturmak İçin Mandal.\
-\
-**LİSTEYE EKLENECEK OLAN İHTİYAÇ DOĞRULTUSUNDAKİ MALZEMELER DERS AŞAMASINDA BİLGİLENDİRİLECEKTİR.**
+```
++ 10 Adet 50X70 Bristol Kağıdı
++ 50x70 300gr Şöhler Kağıt
++ 35x50 200gr Eskiz Kağıtları
++ Gönye
++ Pistole Takımı
++ Maket Bıçağı
++ 02,03,05 Uçlu Kalem
++ Rapido Kalem Seti (02,03,05) ve Siyah Mürekkep
++ 70cm Demir Cetvel
++ 50x70 Duralit
++ Kağıtları Tutturmak İçin Mandal
 
-## **Alınacak Kitaplar**
-> İletişim ve Grafik Tasarım - Emre Becer\
-Görsel İletişim ve Grafik Tasarım - Tevfik Fikret Uçar
+LİSTEYE EKLENECEK OLAN İHTİYAÇ DOĞRULTUSUNDAKİ MALZEMELER DERS AŞAMASINDA BİLGİLENDİRİLECEKTİR.
+```
 
 ## **Ödevler**
 > Bir kahve reklamı için slogan ve yaratıcılık. (Temel Reklamcılık)
@@ -50,8 +53,15 @@ Görsel İletişim ve Grafik Tasarım - Tevfik Fikret Uçar
 
 > _"Edinmeniz gereken malzemelerden bir diğeri 35x50 cm resim kağıdı (duvarınıza asıp çizgi çalışması yapmanız için gerekli). **2B 3B 4B 5B** alabilirsiniz ayrıca (ton skalası yapmak için gerekli)."_ **Aslı Hoca**
 
+## **Arşivler**
+### 📚 | [Kitaplar](archive/books.md)
+### 🔗 | [Linkler](archive/links.md)
+### 👥 | [Gruplar](archive/groups.md)
+### 🍿 | [Filmler](archive/movies.md)
+### 🎥 | [YouTube Kanalları](archive/youtubeC.md)
+### -
+
 ## **Daha Fazla**
-### [Grafik Tasarım Arşiv](archive.md)
 ### [Tüm Dökümanlar](docs/docs.md)
 ### [Ders İçin Kaynaklar](sources/sources.md)
 ### [Senkron Ders Saatleri](meeting.md)
@@ -61,3 +71,19 @@ Görsel İletişim ve Grafik Tasarım - Tevfik Fikret Uçar
 ### [OBIS'e Bağlan](https://obis.nisantasi.edu.tr)
 ### [Sanal Kampüs'e Bağlan](https://sanalkampus.nisantasi.edu.tr)
 ### [Okul Sitesine Bağlan](http://myo.nisantasi.edu.tr)
+### -
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
