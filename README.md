@@ -52,10 +52,13 @@ Görsel İletişim ve Grafik Tasarım - Tevfik Fikret Uçar
 
 ## **Daha Fazla**
 ### [Hocaların Seçtikleri](featured_contents.md)
+### [Grafik Tasarım Arşiv](archive.md)
 ### [Tüm Dökümanlar](docs/docs.md)
 ### [Ders İçin Kaynaklar](sources/sources.md)
 ### [Senkron Ders Saatleri](meeting.md)
 ### -
+
+## **Bağlantılar**
 ### [OBIS'e Bağlan](https://obis.nisantasi.edu.tr)
 ### [Sanal Kampüs'e Bağlan](https://sanalkampus.nisantasi.edu.tr)
 ### [Okul Sitesine Bağlan](http://myo.nisantasi.edu.tr)
