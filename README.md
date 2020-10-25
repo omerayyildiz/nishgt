@@ -45,13 +45,14 @@ LİSTEYE EKLENECEK OLAN İHTİYAÇ DOĞRULTUSUNDAKİ MALZEMELER DERS AŞAMASINDA
 
 > Desen ödevi için çizilecekler (5 adet 35x50 sayfa boyunca):
 ![zafer hoca](assets/img/zaferHoca.png)
-
-> **Not:** El alıştırması için, hepsi farklı sayfaya olacak şekilde yatay çizgiler, dikey çizgiler, elipsler, daireler, noktadan noktaya çizgiler ve farklı şekillerde çizgiler çizilecek. 
+**Not:** El alıştırması için, hepsi farklı sayfaya olacak şekilde yatay çizgiler, dikey çizgiler, elipsler, daireler, noktadan noktaya çizgiler ve farklı şekillerde çizgiler çizilecek. 
 
 ## ⚠️ **ÖNEMLİ NOTLAR**
-> _"Bol bol desen alıştırması."_ **Zafer Hoca**
+```
+"Bol bol desen alıştırması." - Zafer Hoca
 
-> _"Edinmeniz gereken malzemelerden bir diğeri 35x50 cm resim kağıdı (duvarınıza asıp çizgi çalışması yapmanız için gerekli). **2B 3B 4B 5B** alabilirsiniz ayrıca (ton skalası yapmak için gerekli)."_ **Aslı Hoca**
+"Edinmeniz gereken malzemelerden bir diğeri 35x50 cm resim kağıdı (duvarınıza asıp çizgi çalışması yapmanız için gerekli). **2B 3B 4B 5B** alabilirsiniz ayrıca (ton skalası yapmak için gerekli)." - Aslı Hoca
+```
 
 ## **Arşivler**
 ### 📚 | [Kitaplar](archive/books.md)
