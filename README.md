@@ -60,7 +60,7 @@ LİSTEYE EKLENECEK OLAN İHTİYAÇ DOĞRULTUSUNDAKİ MALZEMELER DERS AŞAMASINDA
 ### -
 
 ## **Daha Fazla**
-### [Tüm Dökümanlar](docs/docs.md)
+### [Tüm Dökümanlar](https://drive.google.com/drive/folders/1NMRJ80z9VtA0uERTgJDy8xhZTq26kvNU?usp=sharing)
 ### [Ders İçin Kaynaklar](sources/sources.md)
 ### [Senkron Ders Saatleri](meeting.md)
 ### -
