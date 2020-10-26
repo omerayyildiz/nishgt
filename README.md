@@ -43,9 +43,7 @@ LİSTEYE EKLENECEK OLAN İHTİYAÇ DOĞRULTUSUNDAKİ MALZEMELER DERS AŞAMASINDA
 ## **Ödevler**
 > Bir kahve reklamı için slogan ve yaratıcılık. (Temel Reklamcılık)
 
-> Desen ödevi için çizilecekler (5 adet 35x50 sayfa boyunca):
-![zafer hoca](assets/img/zaferHoca.png)
-**Not:** El alıştırması için, hepsi farklı sayfaya olacak şekilde yatay çizgiler, dikey çizgiler, elipsler, daireler, noktadan noktaya çizgiler ve farklı şekillerde çizgiler çizilecek. 
+> Çeşitli boyutlarda kutular, ütü, cezve,çekiç, keser gibi objeler çalışıyoruz. (Desen) 
 
 ## ⚠️ **ÖNEMLİ NOTLAR**
 ```
