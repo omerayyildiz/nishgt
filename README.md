@@ -30,6 +30,7 @@ Grafik Tasarım (Mobil Dergilikler ve D&R)
 + 35x50 200gr Eskiz Kağıtları
 + Gönye
 + Pistole Takımı
++ Pergel
 + Maket Bıçağı
 + 02,03,05 Uçlu Kalem
 + Rapido Kalem Seti (02,03,05) ve Siyah Mürekkep
