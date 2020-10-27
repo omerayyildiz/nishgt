@@ -25,8 +25,8 @@ Grafik Tasarım (Mobil Dergilikler ve D&R)
 
 ## **Alınacak Malzemeler**
 ```
-+ 10 Adet 50X70 Bristol Kağıdı
-+ 50x70 300gr Şöhler Kağıt
++ 50X70 300gr Bristol Kağıdı
++ 50x70 220gr Şöhler Kağıt
 + 35x50 200gr Eskiz Kağıtları
 + Gönye
 + Pistole Takımı
