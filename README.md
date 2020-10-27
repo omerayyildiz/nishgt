@@ -44,11 +44,13 @@ LİSTEYE EKLENECEK OLAN İHTİYAÇ DOĞRULTUSUNDAKİ MALZEMELER DERS AŞAMASINDA
 ## **Ödevler**
 > Bir kahve reklamı için slogan ve yaratıcılık. (Temel Reklamcılık)
 
-> Çeşitli boyutlarda kutular, ütü, cezve,çekiç, keser gibi objeler çalışıyoruz. (Desen) 
+> Çeşitli boyutlarda kutular, ütü, cezve,çekiç, keser gibi objeler çalışıyoruz. (Desen)
+
+> [Temel Tasarım I Proje Dosyası](https://drive.google.com/file/d/1v8P36IJCoW2uNucCjCOzFvScIu2ey-2n/view?usp=sharing)'ndaki iki çalışma 35x50 Şöhler kağıdına yapılacak. Birinci projede her sütünda farklı bir kalem kullanılabilir. 8 Kasım'da teslim edilecek.
 
 ## ⚠️ **ÖNEMLİ NOTLAR**
 ```
-"Bol bol desen alıştırması." - Zafer Hoca
+"Bauhaus Dönemi ve İsviçre tasarım stiline; yapılan çeşitli afiş çalışmalarına göz gezdirin." - Aslı Hoca
 ```
 
 ## **Arşivler**
