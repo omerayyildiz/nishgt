@@ -46,7 +46,7 @@ LİSTEYE EKLENECEK OLAN İHTİYAÇ DOĞRULTUSUNDAKİ MALZEMELER DERS AŞAMASINDA
 
 > Çeşitli boyutlarda kutular, ütü, cezve,çekiç, keser gibi objeler çalışıyoruz. (Desen)
 
-> [Temel Tasarım I Proje Dosyası](https://drive.google.com/file/d/1v8P36IJCoW2uNucCjCOzFvScIu2ey-2n/view?usp=sharing)'ndaki iki çalışma 35x50 Şöhler kağıdına yapılacak. Birinci projede her sütünda farklı bir kalem kullanılabilir. 8 Kasım'da teslim edilecek.
+> [Temel Tasarım I Proje Dosyası](https://drive.google.com/file/d/1DhNOvapKd6O2Z1rF9yDw9qEKIWXPwlf6/view?usp=sharing)'ndaki iki çalışma 35x50 Şöhler kağıdına yapılacak. Birinci projede her sütünda farklı bir kalem kullanılabilir. 8 Kasım'da teslim edilecek.
 
 ## ⚠️ **ÖNEMLİ NOTLAR**
 ```
