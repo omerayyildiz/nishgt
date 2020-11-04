@@ -10,11 +10,9 @@
 
 > [Temel Tasarım I Proje Dosyası](https://drive.google.com/file/d/1DhNOvapKd6O2Z1rF9yDw9qEKIWXPwlf6/view?usp=sharing)'ndaki iki çalışma 35x50 Şöhler kağıdına yapılacak. Birinci projede her sütünda farklı bir kalem kullanılabilir. 8 Kasım'da teslim edilecek.
 
-> Bu bir denemedir. 2
-
 ## ⚠️ **ÖNEMLİ NOTLAR**
 ```
-"Bauhaus Dönemi ve İsviçre tasarım stiline; yapılan çeşitli afiş çalışmalarına göz gezdirin." - Aslı Hoca
+"Her çarşamba saat 17.00'a kadar okuldayım!" - Tamer Hoca
 ```
 
 ## **Arşivler**
