@@ -5,13 +5,13 @@
 
 ## **Ödevler**
 > Minimalizm akımını araştırıp, afişlerini görsellerini inceliyip 4-5 sayfalık sunum dosyası hazırlayacağız.
-> - [**PDF**](https://get2.adobe.com/tr/reader/download/?installer=Reader_DC_2020.013.20064_for_Mac_Intel&stype=7742&standalone=1) veya [**Word**](https://mail.nisantasi.edu.tr) dosyası olabilir. 
+> - [PDF](https://get2.adobe.com/tr/reader/download/?installer=Reader_DC_2020.013.20064_for_Mac_Intel&stype=7742&standalone=1) veya [Word](https://mail.nisantasi.edu.tr) dosyası olabilir. 
 > - Sunum şekli çok önemli.
-> - İlk baştaki sayfaya okulun [**logosunu**](assets/img/logo.png), ad soyad, tarih, öğretmen adı ve ders konusu.
+> - İlk baştaki sayfaya okulun [logosunu](assets/img/logo.png), ad soyad, tarih, öğretmen adı ve ders konusu.
 > - Yani ilk sayfa kapak olacak.
-> - Ödevi Aslı Hoca'nın [**mail**](mailto:akkilica@gmail.com) adresine göndereceğiz.
+> - Ödevi Aslı Hoca'nın [mail](mailto:akkilica@gmail.com) adresine göndereceğiz.
 > - Teslim tarihi haftaya.
-> - Sunum için örnek: [**TIKLA!**](https://drive.google.com/file/d/13SJVaum8ceEU-O2x4s35ynZVy4p9_lou/view?usp=sharing)
+> - Sunum için örnek: [TIKLA!](https://drive.google.com/file/d/13SJVaum8ceEU-O2x4s35ynZVy4p9_lou/view?usp=sharing)
 
 
 > (1.Şişe - 2.Elma - 3.Limon - 4.Bıçak) bu objelerden kompozisyon oluşturuyoruz. 35X50 kağıdı dik tutuyoruz.(Desen)
