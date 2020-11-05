@@ -9,7 +9,7 @@
 > - Sunum şekli çok önemli.
 > - İlk baştaki sayfaya okulun [logosunu](assets/img/logo.png), ad soyad, tarih, öğretmen adı ve ders konusu.
 > - Yani ilk sayfa kapak olacak.
-> - Ödevi Aslı Hoca'nın [mail](mailto:akkilica@gmail.com) adresine göndereceğiz.
+> - Ödevi Ömer Ayyıldız'a WhatsApp üzerinden ödev dosyası + ad soyad, okul numarası şeklinde göndermeniz yeterli.
 > - Teslim tarihi haftaya.
 > - Sunum için örnek: [TIKLA!](https://drive.google.com/file/d/13SJVaum8ceEU-O2x4s35ynZVy4p9_lou/view?usp=sharing)
 
