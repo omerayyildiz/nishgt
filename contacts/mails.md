@@ -1,10 +1,12 @@
 # Mailler
 ## Esen Kunt
- mailto:esenkunt@yahoo.com
+ [Mail Gönder](mailto:esenkunt@yahoo.com)
 ## Zafer Erkan
- mailto:zafer.erkan@nisantasi.edu.tr
+ [Mail Gönder](mailto:zafer.erkan@nisantasi.edu.tr)\
+ [WhaptsApp'tan Yaz](https://wa.me/5326324243)
 ## Aslı Açar
- mailto:akkilica@gmail.com
+ [Mail Gönder](mailto:akkilica@gmail.com)\
+ [WhaptsApp'tan Yaz](https://wa.me/5397053551)
 ## Tamer Bulat 
- mailto:tamer.bulat@nisantasi.edu.tr\
- https://wa.me/5385432676
+ [Mail Gönder](mailto:tamer.bulat@nisantasi.edu.tr)\
+ [WhaptsApp'tan Yaz](https://wa.me/5385432676)
