@@ -1,6 +1,4 @@
-# Ödev Açıklamaları
-## Ders: Temel Tasarım I
-Ödevler ile alakalı tüm açıklamalar videoda mevcuttur. 
+# Temel Tasarım I
 
 ## Ödevler İçin Gerekli Malzemeler
 - 35x50 Schoeller Kağıdı
@@ -22,4 +20,4 @@
 
 - Vize Ödevi Yapım Aşaması (Noktalama): [VİDEOYA GİT!](https://youtu.be/dzfsC8U41bk)
 
-- Vize Ödevi Ders Kayıt: [VİDEOYA GİT!](https://www.youtube.com/watch?v=h-jjb3IKZzI&feature=youtu.be)
+- Vize Ödevi Ders Kaydı: [VİDEOYA GİT!](https://www.youtube.com/watch?v=h-jjb3IKZzI&feature=youtu.be)
