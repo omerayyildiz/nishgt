@@ -10,10 +10,13 @@
 - Pergel
 
 ## Ödev Teslim Tarihi
-Ödevin son teslim tarihi bulunmamaktadır. Sadece Çarşamba gününe kadar belli bir aşamaya gelmeniz gerekmektedir. Aslı Hoca derste ödevler üzerine konuşacak.
+5 Aralık 2020
 
 ## Ödev Teslim Biçimi
-Ödev teslim biçimi belirlenmedi.
+Ödev teslimi; dijital platform içerisinde mail olarak gönderilecektir. (Mail Belirtilecektir.)
 
 ## İlgili Açıklama Videosu
-Temel Tasarım I | VİZE ÖDEVİ: [VİDEOYA GİT!](https://www.youtube.com/watch?v=h-jjb3IKZzI&feature=youtu.be)
+- Vize Ödevi Yapım Aşaması (Çizim): [VİDEOYA GİT!](https://youtu.be/Z3Li245P93o)
+
+- Vize Ödevi Yapım Aşaması (Noktalama): [VİDEOYA GİT!](https://youtu.be/dzfsC8U41bk)
+- Temel Tasarım I | VİZE ÖDEVİ Açıklama: [VİDEOYA GİT!](https://www.youtube.com/watch?v=h-jjb3IKZzI&feature=youtu.be)
