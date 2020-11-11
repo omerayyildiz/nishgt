@@ -22,4 +22,4 @@
 
 - Vize Ödevi Yapım Aşaması (Noktalama): [VİDEOYA GİT!](https://youtu.be/dzfsC8U41bk)
 
-- Temel Tasarım I | VİZE ÖDEVİ Açıklama: [VİDEOYA GİT!](https://www.youtube.com/watch?v=h-jjb3IKZzI&feature=youtu.be)
+- Vize Ödevi Ders Kayıt: [VİDEOYA GİT!](https://www.youtube.com/watch?v=h-jjb3IKZzI&feature=youtu.be)
