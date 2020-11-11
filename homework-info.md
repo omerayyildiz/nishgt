@@ -13,10 +13,13 @@
 5 Aralık 2020
 
 ## Ödev Teslim Biçimi
-Ödev teslimi; dijital platform içerisinde mail olarak gönderilecektir. (Mail Belirtilecektir.)
+Ödev teslimi; dijital platform içerisinde mail olarak gönderilecektir.
 
-## İlgili Açıklama Videosu
+[ÖDEVİMİ GÖNDER!](mailto:temeltasarimikibinyirmi@gmail.com)
+
+## Örnek Videolar ve Açıklamalar
 - Vize Ödevi Yapım Aşaması (Çizim): [VİDEOYA GİT!](https://youtu.be/Z3Li245P93o)
 
 - Vize Ödevi Yapım Aşaması (Noktalama): [VİDEOYA GİT!](https://youtu.be/dzfsC8U41bk)
+
 - Temel Tasarım I | VİZE ÖDEVİ Açıklama: [VİDEOYA GİT!](https://www.youtube.com/watch?v=h-jjb3IKZzI&feature=youtu.be)
