@@ -20,4 +20,6 @@
 
 - Vize Ödevi Yapım Aşaması (Noktalama): [VİDEOYA GİT!](https://youtu.be/dzfsC8U41bk)
 
+- Ödev İçin Örnek Yapım Aşaması: [VİDEOYA GİT!](https://youtu.be/kTYIghyBIlA)
+
 - Vize Ödevi Ders Kaydı: [VİDEOYA GİT!](https://www.youtube.com/watch?v=h-jjb3IKZzI&feature=youtu.be)
