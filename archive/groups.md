@@ -9,7 +9,7 @@
 
 - [Mirket - Birlikte Çalışalım](https://discord.gg/9eEqdU7)
 
-- [NU - Grafik Tasarım Öğrenci Grubu](https://discord.gg/BahYraS)
+- [NU - Grafik Tasarım Öğrenci Grubu](https://discord.gg/UNbzcPx8r2)
 
 ## **Telegram**
 - [Grafikerler (1tik.net)](https://t.me/grafiktasarimcilar)
