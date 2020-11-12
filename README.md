@@ -1,20 +1,16 @@
 # Nişantaşı Üniversitesi Grafik Tasarım
 
-![platform görsel](assets/img/platform.png)
-
-Tüm duyuruların yapıldığı ve içeriklerin paylaşıldığı platformumuz tamamen hazır hale geldi!
-
-[BENİ PLATFORMA TAŞI!](https://discord.gg/UNbzcPx8r2)
-
-
+![dance](assets/img/dance.gif)
 ## **VİZE ÖDEVLERİ**
 [TEMEL TASARIM I VİZE ÖDEVİ](homework-info.md)
 
+## **Ödevler**
 
+> [Truman Show](https://bit.ly/3lpa6J7) bir sonraki derse kadar izlenecek. (Temel Reklamcılık)
 
+> Nokta ile gölge çalışması, Gestalt kuramına uygun çalışma, minimalizm ve ton skalası. 5 Aralık Son Teslim (Temel Tasarım)
 
-
-
+> 35x50 kağıdı yatay tutarak 12 cm genişliğinde dörde bölünücek. Bir tanesi lekeyle koyudan açığa, ikincisini çapraz tarama tekniği ile koyudan açığa, üçüncüsünü dairesel helezon çizgilerle koyudan açığa ve dördüncüsünü yatay ritimli hareketli çizgilerle koyudan açığa boyuyoruz. (Desen)
 
 ## **Arşivler**
 ### 📚 | [Kitaplar](archive/books.md)
