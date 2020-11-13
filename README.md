@@ -30,16 +30,3 @@
 ### [OBIS'e Bağlan](https://obis.nisantasi.edu.tr)
 ### [Sanal Kampüs'e Bağlan](https://sanalkampus.nisantasi.edu.tr)
 ### [Okul Sitesine Bağlan](http://myo.nisantasi.edu.tr)
-
-
-
-
-
-
-
-
-
-
-
-
-
