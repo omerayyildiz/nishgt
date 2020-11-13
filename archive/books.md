@@ -1,3 +1,9 @@
+---
+layout: post
+title: deneme
+subtitle: deneme
+---
+
 # 📚 Kitaplar
 
 - Görsel İletişim ve Grafik Tasarım - Tevfik Fikret Uçar
