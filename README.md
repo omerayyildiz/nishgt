@@ -1,7 +1,7 @@
 # Nişantaşı Üniversitesi Grafik Tasarım
 
 ![dance](assets/img/dance.gif)
-## **VİZE ÖDEVLERİ**
+## ⚠️ **VİZE ÖDEVLERİ** ⚠️
 [TEMEL TASARIM I VİZE ÖDEVİ](homework-info.md)
 
 ## **Ödevler**
@@ -30,8 +30,6 @@
 ### [OBIS'e Bağlan](https://obis.nisantasi.edu.tr)
 ### [Sanal Kampüs'e Bağlan](https://sanalkampus.nisantasi.edu.tr)
 ### [Okul Sitesine Bağlan](http://myo.nisantasi.edu.tr)
-
-
 
 
 
