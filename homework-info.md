@@ -16,6 +16,8 @@
 [ÖDEVİMİ GÖNDER!](mailto:temeltasarimikibinyirmi@gmail.com)
 
 ## Örnek Videolar ve Açıklamalar
+- Çizgi Çalışması Ders Kaydı (14 KASIM): [VİDEOYA GİT!](https://youtu.be/BWH4rwGyW04)
+
 - Vize Ödevi Yapım Aşaması (Çizim): [VİDEOYA GİT!](https://youtu.be/Z3Li245P93o)
 
 - Vize Ödevi Yapım Aşaması (Noktalama): [VİDEOYA GİT!](https://youtu.be/dzfsC8U41bk)
