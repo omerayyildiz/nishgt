@@ -6,6 +6,8 @@
 
 ## **Ödevler**
 
+> [MİNİMALİZM VE TON SKALASI, ÖDEV KONTROL VE TESLİM İÇİN TIKLA!](homeworks.md)
+
 > [Truman Show](https://bit.ly/3lpa6J7) bir sonraki derse kadar izlenecek. (Temel Reklamcılık)
 
 > Nokta ile gölge çalışması, Gestalt kuramına uygun çalışma, minimalizm ve ton skalası. 5 Aralık Son Teslim (Temel Tasarım)
