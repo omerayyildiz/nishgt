@@ -4,15 +4,16 @@
 ## ⚠️ **VİZE ÖDEVLERİ** ⚠️
 [TEMEL TASARIM I VİZE ÖDEVİ](homework-info.md)
 
+---
+
+[BİLGİSAYAR DESTEKLİ TASARIM](https://drive.google.com/file/d/1ciFtMWEFNIHuMXautTK8Cfc7z_XTCUi5/view?usp=sharing)
 ## **Ödevler**
 
 > [MİNİMALİZM VE TON SKALASI, ÖDEV KONTROL VE TESLİM İÇİN TIKLA!](homeworks.md)
 
-> [Truman Show](https://bit.ly/3lpa6J7) bir sonraki derse kadar izlenecek. (Temel Reklamcılık)
+> - Temel Reklamcılık dersinde  Wes Anderson’un Büyük Budapeşte Oteli filmi izlenip HM yılbaşı reklamıyla arasındaki ilişkiye bakılıcak.
+> - Parazit,Terenbaum Ailesi, Fight Club hocanın tavsiye ettiği filmler. (Temel Reklamcılık)
 
-> Nokta ile gölge çalışması, Gestalt kuramına uygun çalışma, minimalizm ve ton skalası. 5 Aralık Son Teslim (Temel Tasarım)
-
-> 35x50 kağıdı yatay tutarak 12 cm genişliğinde dörde bölünücek. Bir tanesi lekeyle koyudan açığa, ikincisini çapraz tarama tekniği ile koyudan açığa, üçüncüsünü dairesel helezon çizgilerle koyudan açığa ve dördüncüsünü yatay ritimli hareketli çizgilerle koyudan açığa boyuyoruz. (Desen)
 
 ## **Arşivler**
 ### 📚 | [Kitaplar](archive/books.md)
