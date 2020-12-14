@@ -14,6 +14,7 @@
 > - Temel Reklamcılık dersinde  Wes Anderson’un Büyük Budapeşte Oteli filmi izlenip HM yılbaşı reklamıyla arasındaki ilişkiye bakılıcak.
 > - Parazit,Terenbaum Ailesi, Fight Club hocanın tavsiye ettiği filmler. (Temel Reklamcılık)
 
+>Desen dersinde Sırt çantası ve sandalyeye asılı mont veya ceket çalışıyoruz..
 
 ## **Arşivler**
 ### 📚 | [Kitaplar](archive/books.md)
