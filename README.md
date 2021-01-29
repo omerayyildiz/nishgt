@@ -1,36 +1,32 @@
 # Nişantaşı Üniversitesi Grafik Tasarım
 
-![dance](assets/img/dance.gif)
-## ⚠️ **VİZE ÖDEVLERİ** ⚠️
-[TEMEL TASARIM I VİZE ÖDEVİ](homework-info.md)
+## Uzaktan Eğitim Yürümüyor Be!
+ Siteyi yeni bir temaya taşımayı düşünüyorum. Ve bunla beraber sadece bir ödev sitesi olarak kalmayıp işleri daha da büyütmek istiyorum. Neden Türkiye'nin önde gelen bloglarından biri olmayalım ki? 
+ 
+ Lakin siteye sürekli bakamıyorum. Bu yüzden yeni arkadaşlar arıyorum. `(İki terminal açıp kendini yazılımcı sananlara büyük ihtimal cevap vermeyeceğim.)`
 
----
+> Şu pandemi bitebilir mi artık, rica ediyorum.
 
-[BİLGİSAYAR DESTEKLİ TASARIM](https://drive.google.com/file/d/1ciFtMWEFNIHuMXautTK8Cfc7z_XTCUi5/view?usp=sharing)
-## **Ödevler**
 
-> [MİNİMALİZM VE TON SKALASI, ÖDEV KONTROL VE TESLİM İÇİN TIKLA!](homeworks.md)
+## Site nasıl işliyor?
+Nishgt, Jekyll adında bir teknoloji ile çalışıyor. Hazır temalardan birini seçiyoruz, gerekli düzenlemeleri yaptıktan sonra GitHub üzerinde `deploy` ediyoruz. Kullanıcıya görünen çoğu kısmı ise Markdown ile yazıyoruz. Fakat yeni Jekyll temaların bazıları GitHub'da çalışmıyor. Bu yüzden Vercel'e taşınma olasılığımız yüksek.
 
-> - Temel Reklamcılık dersinde  Wes Anderson’un Büyük Budapeşte Oteli filmi izlenip HM yılbaşı reklamıyla arasındaki ilişkiye bakılıcak.
-> - Parazit,Terenbaum Ailesi, Fight Club hocanın tavsiye ettiği filmler. (Temel Reklamcılık)
 
->Desen dersinde Sırt çantası ve sandalyeye asılı mont veya ceket çalışıyoruz..
+## Bilmeniz gerekenler:
+- [Markdown](https://guides.github.com/features/mastering-markdown/)
 
-## **Arşivler**
-### 📚 | [Kitaplar](archive/books.md)
-### 🔗 | [Linkler](archive/links.md)
-### 👥 | [Gruplar](archive/groups.md)
-### 🍿 | [Filmler](archive/movies.md)
-### 🎥 | [YouTube Kanalları](archive/youtubeC.md)
-### -
+- [Git](https://www.youtube.com/watch?v=rWG70T7fePg) ve [GitHub](https://github.com)
 
-## **Daha Fazla**
-### [Tüm Dökümanlar](https://drive.google.com/drive/folders/1NMRJ80z9VtA0uERTgJDy8xhZTq26kvNU?usp=sharing)
-### [Ders İçin Kaynaklar](sources/sources.md)
-### [Senkron Ders Saatleri](meeting.md)
-### -
+- Güzel bir Türkçe
 
-## **Bağlantılar**
-### [OBIS'e Bağlan](https://obis.nisantasi.edu.tr)
-### [Sanal Kampüs'e Bağlan](https://sanalkampus.nisantasi.edu.tr)
-### [Okul Sitesine Bağlan](http://myo.nisantasi.edu.tr)
+- Teknik İngilizce
+
+## İşleri kolaylaştıracak bir şeyler yok mu?
+Var. İşin teknik kısmı ile uğraşmamanız adına `commitleri` ve `branchleri` ayarlayacak scriptler hazır. Kurulumunu yapmanız yeterli. Bunlardan birisi ise [BeginnerGit](https://github.com/omerayyildiz/beginnerGit).
+
+Saygılarımla.
+
+Ömer Ayyıldız
+
+
+
