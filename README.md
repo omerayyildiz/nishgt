@@ -1,32 +1,35 @@
-# Nişantaşı Üniversitesi Grafik Tasarım
+# Nişantaşı Üniversitesi Grafik Tasarımı
 
-## Uzaktan Eğitim Yürümüyor Be!
- Siteyi yeni bir temaya taşımayı düşünüyorum. Ve bunla beraber sadece bir ödev sitesi olarak kalmayıp işleri daha da büyütmek istiyorum. Neden Türkiye'nin önde gelen bloglarından biri olmayalım ki? 
- 
- Lakin siteye sürekli bakamıyorum. Bu yüzden yeni arkadaşlar arıyorum. `(İki terminal açıp kendini yazılımcı sananlara büyük ihtimal cevap vermeyeceğim.)`
+## OTOPORTRE (İLLUSTRASYON)
 
-> Şu pandemi bitebilir mi artık, rica ediyorum.
+**Boyut:** 35x50
 
+**Kağıt Tipi:** Canson (Deneysel olarak bristol kullanabilirsiniz.)
 
-## Site nasıl işliyor?
-Nishgt, Jekyll adında bir teknoloji ile çalışıyor. Hazır temalardan birini seçiyoruz, gerekli düzenlemeleri yaptıktan sonra GitHub üzerinde `deploy` ediyoruz. Kullanıcıya görünen çoğu kısmı ise Markdown ile yazıyoruz. Fakat yeni Jekyll temaların bazıları GitHub'da çalışmıyor. Bu yüzden Vercel'e taşınma olasılığımız yüksek.
+**Boya ve Kalem Tipi:** İstediğiniz türde malzeme kullanabilirsiniz.
 
+**Eskiz:** A4 kağıdına 10 eskiz. (Gramajı yüksek olmalı.)
 
-## Bilmeniz gerekenler:
-- [Markdown](https://guides.github.com/features/mastering-markdown/)
+---
 
-- [Git](https://www.youtube.com/watch?v=rWG70T7fePg) ve [GitHub](https://github.com)
+## BAUHAUS AFİŞ ÇALIŞMASI (İLLUSTRASYON)
 
-- Güzel bir Türkçe
+**Boyut:** 50x70
 
-- Teknik İngilizce
+**Kağıt Tipi:** Bristol
 
-## İşleri kolaylaştıracak bir şeyler yok mu?
-Var. İşin teknik kısmı ile uğraşmamanız adına `commitleri` ve `branchleri` ayarlayacak scriptler hazır. Kurulumunu yapmanız yeterli. Bunlardan birisi ise [BeginnerGit](https://github.com/omerayyildiz/beginnerGit).
+**Boya ve Kalem Tipleri:** İstediğiniz türde malzeme kullanabilirsiniz.
 
-Saygılarımla.
+**Eskiz:** A4 kağıdına 10 eskiz. (Gramajı yüksek olmalı.)
 
-Ömer Ayyıldız
+> Dönemi iyi araştırın. Bu dönem ile alakalı bir tasalanma süreci yaratın. Yapılmış çalışmaları inceleyin.
 
+---
 
+## HELVETİCA MAJİSKÜL ÇİZİMİ (TİPOGRAFİ)
 
+**Boyut:** 35x50
+
+**Kağıt Tipi:** Bristol
+
+**Boya ve Kalem Tipleri:** Rapido (Artline kalemler) ve markerlar.
