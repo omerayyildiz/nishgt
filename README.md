@@ -8,7 +8,7 @@
 
 **Boya ve Kalem Tipi:** İstediğiniz türde malzeme kullanabilirsiniz.
 
-**Eskiz:** A4 kağıdına 10 eskiz. (Gramajı yüksek olmalı.)
+**Eskiz:** A4 boyutunda bir kağıda 10 eskiz. (Gramajı yüksek olmalı.)
 
 ---
 
@@ -20,7 +20,7 @@
 
 **Boya ve Kalem Tipleri:** İstediğiniz türde malzeme kullanabilirsiniz.
 
-**Eskiz:** A4 kağıdına 10 eskiz. (Gramajı yüksek olmalı.)
+**Eskiz:** A4 boyutunda bir kağıda 10 eskiz. (Gramajı yüksek olmalı.)
 
 > Dönemi iyi araştırın. Bu dönem ile alakalı bir tasalanma süreci yaratın. Yapılmış çalışmaları inceleyin.
 
