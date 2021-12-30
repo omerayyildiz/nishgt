@@ -9,20 +9,20 @@
 12:30 / 15:50.  2. Grup;\
 17:30/ 20:00 ikinci öğrenim olarak işlenecektir.
 
-- Ambalaj tasarımı ara ödev teslimini yapmayan öğrenciler raporlarıyla beraber Tamer Hoca'ya ulaşmaları gerekiyor.
+- Ambalaj tasarımı ara ödev teslimini yapmayanlar raporlarıyla beraber Tamer Hoca'ya ulaşmaları gerekiyor.
 - Tipografi final ödevi için örnekleri WhatsApp üzerinden bulabilirsiniz.
 - Bir sonraki derslerde sorun çıkmaması için grupların organize olması gerekmekte. Bu yüzden aşağıdaki formu doldurmayı **unutmayınız**.
 > [GRUP DAĞILIM FORMU](https://forms.gle/tDyLNFmB6W4DhaYC9)
 
 ## TİPOGRAFİ FİNAL
 
-- Bir sonraki dersimize kadar yapmanız ve sisteme yüklemeniz gerekenler:
+- Bir sonraki dersimize kadar yapmanız gerekenler:
     - Yeniden tasarladığınız ve onaylanan fontunuz,
     - Yeniden tasarladığınız fontun dairesel, karesel, üçgensel formu, (rapidoyla hatlar netleştirilecek),
     - Geometrik şekillerle yeniden tasarladığınız fontları, 11x11 kağıtlara deneysel olacak şekilde çizgisel ve lekesel olarak çalışılmış halleri (birçok deneme olması önemli),
     - Fontunuza benzeyen, doğadan veya endüstriyel/beşeri maddelerin (yapılar, yollar vb.) fotoğraf çekimi.
 
-- Yapmış olduğunuz tüm 11x11 çalışmaları ve fotoğraf çekimlerini, tek başına ve net olacak şekilde fotoğraflarını çekip bir PDF hazırlamalısınız.
+- Yapmış olduğunuz tüm 11x11 çalışmaları ve fotoğraf çekimlerini, tek başına olacak şekilde fotoğraflarını çekip bir PDF hazırlamalısınız.
 
 - **ÖDEVİNİZİ YÜKLEMEK İÇİN:** [ÖDEVİMİ YÜKLE!](https://forms.gle/SGJ47wrDJWwJDPXHA)
 > Doğru Format: omer-ayyildiz.pdf
@@ -46,7 +46,7 @@
 - Bir sonraki dersimize kadar yapmanız/getirmeniz gerekenler:
     - Kitap kapağı ve sayfa tasarımı eskizlerinin, revizeleri uygulanmış son halleri,
     - Elinizde bulunan çeşitli kağıtlar ve kalemler (Atölye malzemeleri),
-    - Kitabınız ve metniniz,
+    - Kitabını ve metniniz,
     - 35x50 veya daha büyük bir boyutta, kapakta kullanmayı planladığınız kağıt tipleri ile gelmiş olmanız gerekmektedir.
 
 ## AMBALAJ TASARIMI FİNAL
