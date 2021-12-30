@@ -14,6 +14,8 @@
 - Bir sonraki derslerde sorun çıkmaması için grupların organize olması gerekmekte. Bu yüzden aşağıdaki formu doldurmayı **unutmayınız**.
 > [GRUP DAĞILIM FORMU](https://forms.gle/tDyLNFmB6W4DhaYC9)
 
+---
+
 ## TİPOGRAFİ FİNAL
 
 - Bir sonraki dersimize kadar yapmanız ve sisteme yüklemeniz gerekenler:
@@ -29,6 +31,8 @@
 
 - **ÖDEVLERİNİZİ KONTROL ETMEK İÇİN:** [KONTROL](https://drive.google.com/drive/folders/1Urkgc-6F_6k9W-8Ai5Cfm0ld3iNYGSKD16nkQNissN0madN5h1SVlnK8BzOfsqYCJIIZ5B1K?usp=sharing)
 
+---
+
 ## ÖZGÜN BASKI FİNAL
 
 - Bir sonraki dersimize kadar yapmanız/getirmeniz gerekenler:
@@ -41,6 +45,8 @@
 
 - Şablon, monotip baskı örnekleri için: [BAĞLANTILAR DOSYASI](https://s3.cloud.ngn.com.tr/clu4-alms234/course/1941448/activity/2059961/monotype_sablon_baski_video_linkleri.pdf?AWSAccessKeyId=ALMS%3aalms-storage%40advancity.com.tr&Expires=1640897026&Signature=qQfnLioU6QcN4stp5kQyhJU%2fxhI%3d)
 
+---
+
 ## İLLUSTRASYON FİNAL
 
 - Bir sonraki dersimize kadar yapmanız/getirmeniz gerekenler:
@@ -48,6 +54,8 @@
     - Elinizde bulunan çeşitli kağıtlar ve kalemler (Atölye malzemeleri),
     - Kitabınız ve metniniz,
     - 35x50 veya daha büyük bir boyutta, kapakta kullanmayı planladığınız kağıt tipleri ile gelmiş olmanız gerekmektedir.
+
+---
 
 ## AMBALAJ TASARIMI FİNAL
 
